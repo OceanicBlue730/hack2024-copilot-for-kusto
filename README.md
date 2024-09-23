@@ -50,7 +50,7 @@ The Copilot would maintain separate context for each tab, and the session would 
 
 ## 5. Data Used
 ---------------
-The Copilot will only have access to the data retrieved through specific queries executed within a particular tab in the Data Explorer. Its visibility will be restricted to the added connections, guaranteeing that users can only use the records and tables which they are authorized to.
+One Copilot thread will only have access to the data retrieved through specific queries executed within a particular tab in the Data Explorer. Its visibility will be restricted to the added connections, guaranteeing that users can only use the records and tables which they are authorized to.
 
 ## 6. Phased Approach to Developing the Solution
 ---------------------------------------------------------
