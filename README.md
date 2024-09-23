@@ -41,7 +41,11 @@ The approach utilizes Azure OpenAI’s natural language processing (NLP) to hand
 ## 4. User Interface
 -------------------
 The UI would be like that of the DfM Copilot, with a Copilot icon added to every tab on the Data Explorer.  
+![image](https://github.com/user-attachments/assets/d268b282-1849-4da4-8021-f528bf50e97b)
+
 Upon clicking the Copilot button, the Copilot window will fly out from the right, with suggestions for prompts to start the conversation. 
+![image](https://github.com/user-attachments/assets/ad535ba6-21d9-4501-a9a3-ee4f0bcd648d)
+
 The Copilot would maintain separate context for each tab, and the session would be closed when the tab is closed.
 
 ## 5. Data Used
