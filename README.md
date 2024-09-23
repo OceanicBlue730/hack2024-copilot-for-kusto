@@ -30,7 +30,7 @@ Additionally, visibility will be limited to the connections that are added, ensu
 
 •	Prompt Suggestions to Start the Conversation: Copilot for Kusto Insights shall be able to propose initial prompts to initiate troubleshooting, such as "Fetch logs for me," and then progressively request details like resource IDs, timestamps, etc. (the typical Copilot interaction).
 
-•	Proposing Follow-Up Questions: When analyzing a large or unfamiliar dataset to pinpoint an issue or discover a pattern, Copilot can help you explore the data from various perspectives. Some of these suggestions might be more beneficial than others for comprehending and presenting the data. For example, after displaying records as a bar chart, asking “Would a line chart be preferable?” can be advantageous.
+•	Proposing Follow-Up Questions and Enhancing Results: When analyzing a large or unfamiliar dataset to pinpoint an issue or discover a pattern, Copilot can help you explore the data from various perspectives. Some of these suggestions might be more beneficial than others for comprehending and presenting the data. For example, after displaying records as a bar chart, asking “Would a line chart be preferable?” can be advantageous.
 
 ## 3. Solution Using Azure Architecture
 -----------------------------------------
